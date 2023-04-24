@@ -1,0 +1,6211 @@
+[
+  {
+    "id": 1611063,
+    "name": "700_Campo_Bolhao Mercado",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612167,
+    "name": "Ramalde_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613948,
+    "name": "601_Boavista_Aeroporto (Direto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612686,
+    "name": "302_ Cordoaria_Campo 24 de Agosto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612706,
+    "name": "303_Campo 24 de Agosto_Cordoara",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612446,
+    "name": "35_Levada_Fanzeres",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612447,
+    "name": "35_Fanzeres_Levada",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611624,
+    "name": "Campo_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 402401,
+    "name": "705_Alto da Serra_Valongo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 402403,
+    "name": "705_Valongo_Alto da Serra",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 402405,
+    "name": "705_Parada_Valongo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 402481,
+    "name": "705_Hospital de S.João_Valongo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 402483,
+    "name": "705_Valongo_Hospital de S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611944,
+    "name": "500_Praca Liberdade_Matosinhos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401241,
+    "name": "13M_Aliados_Matosinhos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401243,
+    "name": "13M_Matosinhos_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611945,
+    "name": "500_Matosinhos_Praca da Liberdade",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401761,
+    "name": "104_Massarrelos_Bom Sucesso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 402281,
+    "name": "Monte da Virgem_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 401201,
+    "name": "1M_Aliados_Matosinhos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401203,
+    "name": "1M_Matosinhos_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401205,
+    "name": "3M_Aliados_Aeroporto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401207,
+    "name": "3M_Aeroporto_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401209,
+    "name": "4M_Aliados_Maia",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401211,
+    "name": "4M_Maia_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401213,
+    "name": "5M_Aliados_Ermesinde",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401215,
+    "name": "5M_Ermesinde_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401401,
+    "name": "205_Campanha_Lidador",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401521,
+    "name": "18_Massarelos_Massarelos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610141,
+    "name": "UOF_Valongo",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610181,
+    "name": "UOF_Gondomar",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610221,
+    "name": "UOF_S.Pedro da Cova",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610301,
+    "name": "UOF_Valadares",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610303,
+    "name": "Valadares_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610305,
+    "name": "UOF_Madalena",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614066,
+    "name": "3M_Aliados_Padrao da Legua",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612806,
+    "name": "401_Campo 24 de Agosto_S.Roque",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614067,
+    "name": "3M_Padrao da Legua_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612807,
+    "name": "401_S.Roque_Campo 24 de Agosto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612808,
+    "name": "UON_C.24 Agosto",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611261,
+    "name": "200_Praca da Galiza_Mercado Foz",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611263,
+    "name": "200_Mercado Foz_Praca da Galiza",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611584,
+    "name": "104_Bom Sucesso_Infante",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612809,
+    "name": "C.24 Agosto_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612887,
+    "name": "Vale Formoso_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613126,
+    "name": "UOF_Seixo",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613127,
+    "name": "Seixo_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613186,
+    "name": "207_Campanha_Mercado da Foz",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613187,
+    "name": "207_Praca D.João I_Mercado da  Foz",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613188,
+    "name": "207_Mercado da Foz_Campanha",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613190,
+    "name": "UOF_Praca D.Joao I",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611021,
+    "name": "700_Bolhao Mercado_Valongo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611023,
+    "name": "700_Valongo_Bolhao Mercado",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611025,
+    "name": "700_S.Roque_Valongo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613949,
+    "name": "601_Aeroporto_Boavista (Direto)",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611029,
+    "name": "700_Valongo_S.Roque",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611381,
+    "name": "904_Gaia Camara_Coimbroes Sul",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613967,
+    "name": "901_Valadares_Infante",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613986,
+    "name": "104_Bom Sucesso_Alfandega",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614006,
+    "name": "602_Cordoaria_Araujo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613626,
+    "name": "303/Boavista_Campo 24 de Agosto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613627,
+    "name": "303/_Campo 24 Agosto_Campo 24 Agosto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611544,
+    "name": "901_Cabine_Valadares",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614007,
+    "name": "602_Araujo_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613086,
+    "name": "3M_Aliados_Araujo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613087,
+    "name": "3M_Araujo_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613088,
+    "name": "1M_Aliados_Mercado da Foz",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613089,
+    "name": "1M_Mercado da Foz_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613090,
+    "name": "7M_Aliados_Seixo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613091,
+    "name": "7M_Seixo_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613092,
+    "name": "8M_Aliados_Rio Tinto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613093,
+    "name": "8M_Rio Tinto_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613094,
+    "name": "10M_Santo Ovidio_Vila d'Este",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613095,
+    "name": "10M_Vila d'Este_Santo Ovidio",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613096,
+    "name": "11M_Aliados_Coimbroes",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613097,
+    "name": "11M_Coimbroes_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613098,
+    "name": "UOF_Coimbroes Sul",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613099,
+    "name": "Coimbroes Sul_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613146,
+    "name": "500_Praca da Liberdade_Castelo do Queijo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613147,
+    "name": "500_Castelo do Queijo_Praca da Liberdade",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 804969,
+    "name": "Valongo_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610701,
+    "name": "Alfandega_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612084,
+    "name": "201_Aliados_Viso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612085,
+    "name": "201_Viso_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612368,
+    "name": "48_Trindade_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612369,
+    "name": "48_Cordoaria_Trindade",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612466,
+    "name": "UON_Fanzeres",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612467,
+    "name": "Fanzeres_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612468,
+    "name": "UON_Levada",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612469,
+    "name": "Levada_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612486,
+    "name": "201_Cordoaria_Viso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612487,
+    "name": "201_Viso_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612646,
+    "name": "904_Batalha_Coimbroes Sul",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612647,
+    "name": "904_Coimbroes Sul_Batalha",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612906,
+    "name": "400_Trindade_Azevedo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612907,
+    "name": "400_Azevedo_Trindade",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613689,
+    "name": "204_Foz_Boavista",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614026,
+    "name": "69_Boavista_Serralves",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614027,
+    "name": "69_Serralves_Boavista",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614046,
+    "name": "905_Gaia Camara-M.Virgem",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613100,
+    "name": "UOF_Araujo",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613246,
+    "name": "66_Trindade_Queimodromo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613247,
+    "name": "66_Queimodromo_Trindade",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613248,
+    "name": "67_Hospital de S.Joao_Queimodromo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613266,
+    "name": "69_Aliados_Serralves",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613267,
+    "name": "69_Serralves_Aliados",
+    "empty": false,
+    "type_value": 2,
+    "old_type_value": 2
+  },
+  {
+    "id": 1609941,
+    "name": "907_Gaiashoping_Vila D'Este",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1609981,
+    "name": "907_Vila D'Este_Gaiashopping",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610823,
+    "name": "Mercado da Foz_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610021,
+    "name": "UON_Campo",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610023,
+    "name": "Campo_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610025,
+    "name": "UON_Valongo",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614047,
+    "name": "905_M.Virgem-Gaia Camara",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610821,
+    "name": "UOF_Mercado da Foz",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614048,
+    "name": "400_S.Lazaro_P.Nascente",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611604,
+    "name": "Infante_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612846,
+    "name": "Campo 24 Agosto_Valpi",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612847,
+    "name": "Valpi_Campo 24 Agosto",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611904,
+    "name": "UOF_Praca Cidade Salvador",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613686,
+    "name": "204_Casa da Musica_Foz",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613687,
+    "name": "204_Hospital de S.Joao_Foz",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613688,
+    "name": "204_Foz_Hospital de S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613706,
+    "name": "601_Cordoaria_Marshopping",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613707,
+    "name": "601_Marshopping_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613766,
+    "name": "600_Aliados_Ponte da Pedra",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613767,
+    "name": "600_Ponte da Pedra_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613786,
+    "name": "4M_Aliados_Ponte de Pedra",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613787,
+    "name": "4M_Ponte de Pedra_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613069,
+    "name": "UOF_Marshopping",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613070,
+    "name": "Marshopping_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613788,
+    "name": "Ponte de Pedra_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614049,
+    "name": "400_P.Nascente_S.Lazaro",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614068,
+    "name": "Padrao da Legua_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614147,
+    "name": "809_Infante_Serralves",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614148,
+    "name": "809_Serralves_Infante",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614166,
+    "name": "806_Marques_Cabanas",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614167,
+    "name": "806_Cabanas_Marques",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614168,
+    "name": "UON_Cabanas",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614169,
+    "name": "Cabanas_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614228,
+    "name": "507_Rotunda AEP_Marshopping",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614229,
+    "name": "507_Cordoaria_Marshopping",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614230,
+    "name": "507_Marshopping_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614086,
+    "name": "UOF_Ponte da Pedra",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614087,
+    "name": "907_Sto Ovidio_Vila D'Este",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613328,
+    "name": "905__Aliados_M.Virgem",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613329,
+    "name": "905__M.Virgem_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613346,
+    "name": "601_Cordoaria_Aeroporto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613347,
+    "name": "601_Aeroporto_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613348,
+    "name": "601_Boavista_Aeroporto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613349,
+    "name": "507_Cordoaria_Leca",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613350,
+    "name": "507_Leca_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613351,
+    "name": "507_Rotunda AEP_Leca",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613746,
+    "name": "11M_H.S.Joao_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613747,
+    "name": "11M_Aliados_H.S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613368,
+    "name": "Freixieiro_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613386,
+    "name": "UON_P.Nascente",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613387,
+    "name": "P.Nascente_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613526,
+    "name": "601_Rotunda AEP_Aeroporto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613426,
+    "name": "400_Aliados_P.Nascente",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613427,
+    "name": "400_P.Nascente_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613486,
+    "name": "601_Aeroporto_Boavista",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613527,
+    "name": "601_Aeroporto_Rotunda AEP",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613546,
+    "name": "508_Bom Sucesso_Cabo do Mundo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613547,
+    "name": "508_Cabo do Mundo_Bom Sucesso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613548,
+    "name": "508_Bom Sucesso_Freixieiro",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613549,
+    "name": "508_Freixieiro_Bom Sucesso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613806,
+    "name": "602_Monte dos Burgos_Aeroporto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613807,
+    "name": "602_Cordoaria_Aeroporto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613808,
+    "name": "602_Aeroporto_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613809,
+    "name": "602_Cordoaria_Ponte de Moreira",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613810,
+    "name": "602_Ponte de Moreira_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613811,
+    "name": "602_Cordoaria_Guardeiras",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613812,
+    "name": "602_Guardeiras_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613826,
+    "name": "301_H.S.Joao_H.S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613827,
+    "name": "301_H.S.Joao_Carvalhido",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613846,
+    "name": "303_Campo 24 Agosto_S.Bento",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613866,
+    "name": "S.Bento_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614126,
+    "name": "809_Maia Forum_Maia Forum",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614146,
+    "name": "809/_Maia Forum_Maia Forum",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614128,
+    "name": "Maia Forum_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614186,
+    "name": "803_Hospital de S.Joao_Rio Tinto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614187,
+    "name": "803_Bom Sucesso_Rio Tinto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614188,
+    "name": "803_Rio Tinto_Bom Sucesso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615070,
+    "name": "907_Bom Sucesso_Coimboes",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614873,
+    "name": "903_Casa da Musica_Vilar do Paraiso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614874,
+    "name": "903_Vilar do Paraiso_Casa da Musica",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614209,
+    "name": "UOF_Vilar do Paraiso",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614210,
+    "name": "Vilar do Paraiso_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615290,
+    "name": "Amial_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 1
+  },
+  {
+    "id": 1615432,
+    "name": "502_Castelo do Queijo_Bolhao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614268,
+    "name": "UOF_Francelos",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614269,
+    "name": "Francelos_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614286,
+    "name": "107_Estadio Dragão_Areias",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614287,
+    "name": "107_Areias_Estadio Dragão",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614288,
+    "name": "107_Estadio Dragão_Freixo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614289,
+    "name": "107_Freixo_Estadio Dragão",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614290,
+    "name": "Freixo_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614306,
+    "name": "603_Marques_Maia",
+    "empty": false,
+    "type_value": 2,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614307,
+    "name": "603_Maia_Marques",
+    "empty": false,
+    "type_value": 2,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614308,
+    "name": "603_H.S.Joao_Maia",
+    "empty": false,
+    "type_value": 2,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614328,
+    "name": "UOF_Vermoim",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614326,
+    "name": "605_Gueifães_Vermoim",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614327,
+    "name": "605_Vermoim_Gueifães",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614329,
+    "name": "Vermoim_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614330,
+    "name": "UOF_Gueifães",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614331,
+    "name": "Gueifães_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614746,
+    "name": "UON_Candal",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614747,
+    "name": "Candal_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614366,
+    "name": "UOF_Freixo",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614367,
+    "name": "UOF_Parque Nascente",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614368,
+    "name": "Parque Nascente_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614369,
+    "name": "UOF_Campo",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614386,
+    "name": "404_Bolhão Mercado_Estadio do Dragão",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614387,
+    "name": "404_Estadio do Dragão_Bolhão Mercado",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614406,
+    "name": "8M_Aliados_Chão Verde",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614407,
+    "name": "8M_Chão Verde_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614408,
+    "name": "Chão Verde_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614426,
+    "name": "8M_Aliados_Rio Tinto Igreja",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614427,
+    "name": "8M_Rio Tinto Igreja_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614446,
+    "name": "800_Est.Dragão_Gondomar",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614447,
+    "name": "800_Gondomar_Est.Dragão",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614448,
+    "name": "801_Est.Dragão_S.P.Cova",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614449,
+    "name": "801_S.Pedro Cova_Est.Dragão",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614466,
+    "name": "800_Bolhão Mercado-Gondomar",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614467,
+    "name": "800_Gondomar-Bolhão Mercado",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614748,
+    "name": "UON_Cabine",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614749,
+    "name": "Cabine_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614470,
+    "name": "801_Cordoaria-S.PedroCova",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614471,
+    "name": "801_S.Pedro Cova-Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614506,
+    "name": "506_Matosinhos_Hospital de S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614875,
+    "name": "903_Candal_Vilar do Paraiso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615071,
+    "name": "907_Coimbroes_Bom sucesso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615150,
+    "name": "108_Matosinhos Mercado_C.Queijo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614526,
+    "name": "901_Trindade_Valadares",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614527,
+    "name": "901_Valadares_Trindade",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614528,
+    "name": "901_Candal_Valadares",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614529,
+    "name": "906_Trindade_Madalena",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614530,
+    "name": "906_Madalena_Trindade",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615133,
+    "name": "MATM_PCSV",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615134,
+    "name": "108_Pr.CidadeSalvador_Matosinhos Mercado",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614548,
+    "name": "803/_H.S.Joao_Rio Tinto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614549,
+    "name": "803/_Bom Sucesso_Rio Tinto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614550,
+    "name": "803/_Rio Tinto_Bom Sucesso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614566,
+    "name": "1M_Aliados_Matosinhos Praia",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614567,
+    "name": "1M_Matosinhos Praia_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614586,
+    "name": "104_Bom Sucesso_Massarelos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614606,
+    "name": "202_Aliados_Passeio Alegre",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614607,
+    "name": "202_Passeio Alegre_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614608,
+    "name": "501_Aliados_Matosinhos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614609,
+    "name": "501_Matosinhos_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614626,
+    "name": "202_Aliados_Ramalde",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614627,
+    "name": "202_Ramalde_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614750,
+    "name": "UON_Valadares",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614751,
+    "name": "Valadares_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614799,
+    "name": "604/_H.S.Joao_Aeroporto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614800,
+    "name": "604/_Aeroporto_H.S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615135,
+    "name": "108_Matosinhos Mercado_Pr.CidadeSalvador",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615151,
+    "name": "108_C.Queijo_Matosinhos Mercado",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615152,
+    "name": "108_C.Queijo_C.Queijo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615153,
+    "name": "CQ_CQ",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615154,
+    "name": "Aliados_Bolhão",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615450,
+    "name": "200_Praça Cidade do Salvador_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615231,
+    "name": "910_Cordoaria_S.Bento",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615232,
+    "name": "910_S.Bento_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615451,
+    "name": "200_Cordoaria__Praça Cidade do Salvador",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615452,
+    "name": "200_Cordoaria_Praça Cidade do Salvador",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615453,
+    "name": "10M_Gaia-Camara_Vila d'Este",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615454,
+    "name": "10M_Vila d'Este_Gaia-Camara",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615553,
+    "name": "68_Aliados_Queimodromo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614986,
+    "name": "200_Bolhão_Praça Cidade do Salvador",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614987,
+    "name": "200_Praça Cidade do Salvador_Bolhão",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615050,
+    "name": "703_Cordoaria_Ermesinde",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615051,
+    "name": "703_Ermesinde_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615110,
+    "name": "500_Castelo do Queijo_Matosinhos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615111,
+    "name": "500_Matosinhos_Castelo do Queijo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615470,
+    "name": "UON_Matosinhos-Praia",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 1
+  },
+  {
+    "id": 1615471,
+    "name": "Matosinhos-Praia_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 1
+  },
+  {
+    "id": 1615472,
+    "name": "UON_B.Francos",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 1
+  },
+  {
+    "id": 1614792,
+    "name": "UON_Maia-Zoo",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614793,
+    "name": "Maia-Zoo_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614794,
+    "name": "900_Cordoaria_Sto.Ovideo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614795,
+    "name": "900_Sto.Ovideo_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614826,
+    "name": "UON_Amial",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614827,
+    "name": "Amial_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614828,
+    "name": "UON_Maia",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614829,
+    "name": "Maia_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615130,
+    "name": "108_Pr Cidade Salvador_PrCidade Salvador",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615131,
+    "name": "PCSV_PCSV",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615310,
+    "name": "300_Carvalhido_C24Agosto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615350,
+    "name": "150_Boavista_Pr.Imperio",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612826,
+    "name": "Apagar_2",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612827,
+    "name": "Apagar_5",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612828,
+    "name": "Apagar_3",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612829,
+    "name": "Apagar_1",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613106,
+    "name": "Rio Tinto (Igreja)_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179713,
+    "name": "UOF_Esposade",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611784,
+    "name": "500_Infante_Matosinhos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611785,
+    "name": "500_Matosinhos_Infante",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 173668,
+    "name": "99_Praca_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 173669,
+    "name": "99_Cordoaria_Praca",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 176190,
+    "name": "UON_Travagem",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176191,
+    "name": "Travagem_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 177990,
+    "name": "UOF_Marques",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 177991,
+    "name": "Marques_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 178010,
+    "name": "604_Maia_Hospital de S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 178011,
+    "name": "UOF_Maia Forum",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613566,
+    "name": "508_Bom Sucesso_Esposade",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613567,
+    "name": "508_Esposade_Bom Sucesso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613646,
+    "name": "601_Boavista_Marshopping",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613647,
+    "name": "601_Marshopping_Boavista",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 174776,
+    "name": "601_Boavista_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 174777,
+    "name": "601_Cordoaria_Boavista",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 174790,
+    "name": "UOF_MaiaZoo",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 174791,
+    "name": "MaiaZoo_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612026,
+    "name": "501_Bairro de Francos_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179290,
+    "name": "67_Areosa_Queimodromo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 178291,
+    "name": "67_Queimodromo_Hospital de S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 174416,
+    "name": "UOF_Bairro de Francos",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 174417,
+    "name": "Bairro de Francos_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 174418,
+    "name": "UOF_Aldoar",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 174419,
+    "name": "Aldoar_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 175330,
+    "name": "703_Cordoaria_Sonhos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 175331,
+    "name": "703_Sonhos_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 175950,
+    "name": "UON_S.Pedro da Cova",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 175951,
+    "name": "UON_Gondomar",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176092,
+    "name": "501_Boavista_Matosinhos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 176093,
+    "name": "501_Matosinhos_Boavista",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 176210,
+    "name": "UON_Carvalha",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176211,
+    "name": "Carvalha_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 177191,
+    "name": "UOF_Carvalhido",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 178292,
+    "name": "UOF_Queimodromo",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 178293,
+    "name": "Queimodromo_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614106,
+    "name": "UOF_P.Alegre",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 173608,
+    "name": "UOF_Bolhao",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176410,
+    "name": "UON_Matosinhos Mercado",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176411,
+    "name": "Matosinhos Mercado_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 177890,
+    "name": "206_Campanha_Viso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 177891,
+    "name": "206_Campanha_Bairro Santo Eugenio",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 177270,
+    "name": "UON_Estadio do Dragao",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 177271,
+    "name": "Estadio do Dragao_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 175210,
+    "name": "Codiceira_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 177970,
+    "name": "UOF_Maia",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 177971,
+    "name": "Maia_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 177972,
+    "name": "UOF_Vale Formoso",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179591,
+    "name": "301_Santa Luzia_Hospital de S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 174070,
+    "name": "502_Bolhao_Casa da Musica",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179170,
+    "name": "35_Estadio do Dragao_Matosinhos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 174390,
+    "name": "603_Hospital de S.Joao_MaiaZoo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179171,
+    "name": "35_Matosinhos_Estadio do Dragao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179172,
+    "name": "UOF_Matosinhos",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179173,
+    "name": "Matosinhos_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 177470,
+    "name": "Esposade_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179174,
+    "name": "37_Santo Ovidio_Hospital de S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179175,
+    "name": "37_Hospital de S.Joao_Santo Ovidio",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179176,
+    "name": "36_Aeroporto_Norteshopping",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179177,
+    "name": "36_Norteshopping_Aeroporto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 177912,
+    "name": "603_Marques_MaiaZoo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179178,
+    "name": "UON_Norteshopping",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179179,
+    "name": "Norteshopping_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613668,
+    "name": "39_Trindade_Estadio do Dragao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613728,
+    "name": "Cabine_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 178590,
+    "name": "507_Boavista_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 178591,
+    "name": "507_Cordoaria_Boavista",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 173648,
+    "name": "99_UOF_Praca",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 1
+  },
+  {
+    "id": 173649,
+    "name": "99_UON_Praca",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 1
+  },
+  {
+    "id": 177550,
+    "name": "UOF_Trindade",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 177551,
+    "name": "Trindade_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179910,
+    "name": "303_Campo 24 de Agosto_Boavista",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 178890,
+    "name": "UOF_Ponte de Moreira",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 178891,
+    "name": "Ponte de Moreira_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612506,
+    "name": "200_Cordoaria_Mercado Foz",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612507,
+    "name": "200_Mercado Foz_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179915,
+    "name": "35_Casa da Musica_ Senhora da Hora",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179916,
+    "name": "35_Senhora da Hora_C.asa da Musica",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611301,
+    "name": "UON_S.Lazaro",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179919,
+    "name": "302_Campo 24 de Agosto_Batalha",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179920,
+    "name": "303_Batalha_Campo 24 de Agosto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179921,
+    "name": "Campo 24Agosto_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179922,
+    "name": "801_Cordoaria_S.Pedro da Cova",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179923,
+    "name": "801_S.Pedro da Cova_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611704,
+    "name": "Bolhao_Ermesinde",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179943,
+    "name": "66_Aliados_Queimodro",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179944,
+    "name": "66_Queimodro_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179959,
+    "name": "600_Aliados_Maia",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179960,
+    "name": "600_Maia_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179961,
+    "name": "600_Aliados_Barca",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179962,
+    "name": "600_Barca_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179963,
+    "name": "Aliados_UON",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179964,
+    "name": "600_Vale Formoso_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179965,
+    "name": "904_Coimbroes_Gaia Camara",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179974,
+    "name": "UOF_Campo 24Agosto",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 180022,
+    "name": "203_Casa da Musica_Castelo do Queijo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 180023,
+    "name": "203_Castelo do Queijo_Casa da Musica",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 180024,
+    "name": "Serralves_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 180025,
+    "name": "UOF_Serralves",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 400241,
+    "name": "200_Bolhao_Mercado da Foz",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 400243,
+    "name": "200_Mercado da Foz_Bolhao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 400361,
+    "name": "UOF_Maia Barca",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 400681,
+    "name": "UON_Francelos",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 400683,
+    "name": "Francelos_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 400721,
+    "name": "Bolhao_Valpi",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 400723,
+    "name": "Valpi_Bolhao",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 400761,
+    "name": "208_Boavista_Aldoar",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 400763,
+    "name": "208_Aldoar_Boavista",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 400845,
+    "name": "UOF_Guardeiras",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 400847,
+    "name": "Guardeiras_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 400931,
+    "name": "907_Vila D'Este_Stº Ovidio",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 400961,
+    "name": "UON_Monte da Virgem",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 400963,
+    "name": "Monte da Virgem_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 401043,
+    "name": "600_Maia Barca_Maia",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 175730,
+    "name": "803_Bom Sucesso_Venda Nova",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 175731,
+    "name": "803_Venda Nova_Bom Sucesso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 175732,
+    "name": "803_Hospital de S.Joao_Venda Nova",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 42898,
+    "name": "UOF_Bom Sucesso",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 175770,
+    "name": "805_Marques_RioTinto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 175771,
+    "name": "805_RioTinto_Marques",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 175773,
+    "name": "805_Rio Tinto_Areosa",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612246,
+    "name": "Araujo_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612366,
+    "name": "89_Aliados_Stº Ovidio",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612367,
+    "name": "89_Stº Ovidio_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611766,
+    "name": "Infante_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 175810,
+    "name": "UON_RioTinto(estacao)",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 175910,
+    "name": "UON_Sonhos",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176250,
+    "name": "UOF_Gatoes",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176251,
+    "name": "Gatoes_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612866,
+    "name": "904_Aliados_Coimbroes Sul",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612867,
+    "name": "904_Coimbroes Sul_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179230,
+    "name": "904_Batalha_Coimbroes",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612868,
+    "name": "905_Aliados_Monte da Virgem",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612869,
+    "name": "905_Monte da Virgem_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 177490,
+    "name": "UOM_Carmo",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 177491,
+    "name": "Carmo-UOM",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179231,
+    "name": "904_Coimbroes_Batalha",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612886,
+    "name": "600_Aliados_Vale Formoso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613226,
+    "name": "UOF_Ponte Luiz I",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613227,
+    "name": "Ponte Luiz I_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 178190,
+    "name": "200_Praca da Galiza_Castelo do Queijo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 178191,
+    "name": "200_Castelo do Queijo_Galiza",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 151990,
+    "name": "UON_Alto da Maia",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 152870,
+    "name": "UON_Parada",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 152873,
+    "name": "UOF_Castelo do Queijo",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 152874,
+    "name": "Castelo do Queijo_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 178212,
+    "name": "305_Bolhao_Hospital de S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 178213,
+    "name": "305_Hospital de S.Joao_Bolhao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 178710,
+    "name": "Lidador_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 153051,
+    "name": "Rotunda da AEP_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 153050,
+    "name": "UOF_Rotunda da AEP",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 139103,
+    "name": "UON_Castelo do Queijo",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179050,
+    "name": "Bolhao Mercado_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179051,
+    "name": "UOF_Bolhao Mercado",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 135733,
+    "name": "UOM_Massarelos",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 135734,
+    "name": "Massarelos_UOM",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 61775,
+    "name": "UOF_Lidador",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 140001,
+    "name": "UOF_Cordoaria",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 114861,
+    "name": "Bom Sucesso_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 151608,
+    "name": "UOF_Aeroporto",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 151609,
+    "name": "Aeroporto_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 147270,
+    "name": "Castelo do Queijo_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 155490,
+    "name": "Monte dos Burgos_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 156551,
+    "name": "UON_S.Roque",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 156552,
+    "name": "S.Roque_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 175890,
+    "name": "Gondomar_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179031,
+    "name": "Maia Barca_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176030,
+    "name": "UON_Codiceira",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179030,
+    "name": "Bairro de Stº Eugenio_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179790,
+    "name": "302_Aliados_Campo 24 de Agosto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179791,
+    "name": "302_Campo 24 de Agosto_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179792,
+    "name": "302_Campo 24 de Agosto-Boavista",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179793,
+    "name": "302_Boavista_Campo 24 de Agosto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179794,
+    "name": "302_Campo 24 Agosto_Campo 24 Agosto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179796,
+    "name": "303_Praca_Campo 24 de Agosto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179797,
+    "name": "303_Campo 24 de Agosto_Praça",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179798,
+    "name": "303_Campo 24 Agosto_Campo 24 Agosto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 169972,
+    "name": "S.Roque_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 169768,
+    "name": "UON_Campanha",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 169769,
+    "name": "Campanha_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 170489,
+    "name": "Leca_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 171088,
+    "name": "UON_Bolhao",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 171089,
+    "name": "UON_Ermesinde",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 171090,
+    "name": "Ermesinde_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 171210,
+    "name": "Cordoaria _UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 171211,
+    "name": "UON_Cordoaria",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 171348,
+    "name": "UON_Santo Ovidio",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 171449,
+    "name": "Campanha_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 171648,
+    "name": "Codiceira_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176010,
+    "name": "UON_Coimbroes",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176011,
+    "name": "Coimbroes_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176550,
+    "name": "UOF_Campanha",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179110,
+    "name": "UON_Bairro de Santo Eugenio",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176970,
+    "name": "UOF_Cabo do Mundo",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176971,
+    "name": "Cabo do Mundo_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 177032,
+    "name": "UOF_Fonte da Moura",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 177033,
+    "name": "Fonte da Moura_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 178810,
+    "name": "Rio Tinto_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 177130,
+    "name": "UOF_Leca",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 177572,
+    "name": "UOF_Estadio do Dragao",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172168,
+    "name": "94M_95M_Praca_Praca",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 177573,
+    "name": "Estadio do Dragao_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172350,
+    "name": "701_Bolhao_Codiceira",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172351,
+    "name": "701_Codiceira_Bolhao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172352,
+    "name": "702_Bolhao_Travagem",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172353,
+    "name": "702_Travagem_Bolhao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172388,
+    "name": "402_Bom Sucesso_S.Roque",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172389,
+    "name": "402_S.Roque_Bom Sucesso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172459,
+    "name": "706_Hospital de S.Joao_Ermesinde",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172460,
+    "name": "706_Ermesinde_Hospital de S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172492,
+    "name": "804_Hospital de S.Joao_S.Pedro da Cova",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172493,
+    "name": "804_S.Pedro da Cova_Hospital de S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172497,
+    "name": "806_Marques_Carvalha",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172498,
+    "name": "806_Carvalha_Marques",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172499,
+    "name": "901_Trindade_Valadares",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172500,
+    "name": "Apagar",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172501,
+    "name": "902_Casa da Musica_Lavadores",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172502,
+    "name": "902_Lavadores_Casa da Musica",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172515,
+    "name": "UON_Azevedo",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172516,
+    "name": "Azevedo_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172554,
+    "name": "UOF_Santa Luzia",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172555,
+    "name": "Santa Luzia_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172556,
+    "name": "UOF_S.Roque",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172557,
+    "name": "UOF_Matosinhos Mercado",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172558,
+    "name": "Matosinhos Mercado_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172559,
+    "name": "UOF_Matosinhos Praia",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172560,
+    "name": "Matosinhos Praia_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172561,
+    "name": "502_Boavista_Bolhao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172566,
+    "name": "UOF_Amial",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611341,
+    "name": "1M_Aliados_Castelo do Queijo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613906,
+    "name": "507_Boavista_Leca",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611343,
+    "name": "1M_Castelo do Queijo_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612346,
+    "name": "88_Praca_Santo Ovidio",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172575,
+    "name": "UOF_Casa da Musica",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172576,
+    "name": "Casa da Musica_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 178370,
+    "name": "S.Mamede_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612347,
+    "name": "88_Santo Ovidio_Praca",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172583,
+    "name": "701_Alto da Maia_Codiceira",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612606,
+    "name": "905_Batalha_Monte da Virgem",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172585,
+    "name": "702_Alto da Maia_Travagem",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612607,
+    "name": "905_Monte da Virgem_Batalha",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172587,
+    "name": "704_Bom Sucesso_Codiceira",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172588,
+    "name": "704_Codiceira_Bom Sucesso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172589,
+    "name": "704_Hospital de S.Joao_Codiceira",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172590,
+    "name": "704_Codiceira_Carvalhido",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612626,
+    "name": "UON_Batalha",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172592,
+    "name": "800_S.Roque_Gondomar",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612627,
+    "name": "Batalha_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172594,
+    "name": "801_S.Roque_S.Pedro da Cova",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613288,
+    "name": "Praca Cidade Salvador_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 175170,
+    "name": "400_Freixo_Azevedo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 175171,
+    "name": "UON_Freixo",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612045,
+    "name": "400_Aliados_Azevedo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 176630,
+    "name": "S.Lazaro_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612046,
+    "name": "400_Azevedo_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172608,
+    "name": "UON_Trindade",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172609,
+    "name": "Trindade_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172614,
+    "name": "902_Candal_Lavadores",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172615,
+    "name": "902_Lavadores_Candal",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 176650,
+    "name": "800_Bolhao Mercado_Gondomar",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 176651,
+    "name": "800_Gondomar_Bolhao Mercado",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 176990,
+    "name": "UOF_Codiceira",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172678,
+    "name": "206_Viso_Campanha",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172692,
+    "name": "503_Casa da Musica_Gatoes",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172693,
+    "name": "503_Gatoes_Casa da Musica",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172694,
+    "name": "503_Viso_Gatoes",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172698,
+    "name": "504_Casa da Musica_Norteshopping",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172699,
+    "name": "504_Norteshopping_Casa da Musica",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172700,
+    "name": "UOF_Norteshopping",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172701,
+    "name": "Norteshopping_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172712,
+    "name": "Santo Ovidio_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172794,
+    "name": "UON_Bolhao Mercado",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172795,
+    "name": "Bolhao Mercado_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172868,
+    "name": "Sonhos_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172869,
+    "name": "S.Pedro da Cova_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 172971,
+    "name": "502_Matosinhos_Bolhao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172988,
+    "name": "1_Massarelos_Passeio Alegre",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 172989,
+    "name": "1_Passeio Alegre_Massarelos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 173008,
+    "name": "18_Massarelos_Carmo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 173009,
+    "name": "18_Carmo_Massarelos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 173028,
+    "name": "1_Massarelos_Infante",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 173029,
+    "name": "1_Infante_Massarelos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 173048,
+    "name": "704_Codiceira_Hospital de S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 173388,
+    "name": "1_ER.Massarelos_Massarelos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 9,
+    "name": "Viso_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 10,
+    "name": "UON_Viso",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 11,
+    "name": "UON_Praca",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 12,
+    "name": "Praca_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179190,
+    "name": "UOF_Santo Ovidio",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176272,
+    "name": "Galiza_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176273,
+    "name": "201_Boavista_Viso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 176274,
+    "name": "201_Viso_Boavista",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179191,
+    "name": "Santo Ovidio_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179211,
+    "name": "UON_Aeroporto",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176332,
+    "name": "UOF_Lavadores",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 2257,
+    "name": "UOF_Boavista",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 2258,
+    "name": "Boavista_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 2266,
+    "name": "Praca_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 2267,
+    "name": "UOF_Praca",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 21119,
+    "name": "Carvalhido_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176333,
+    "name": "Lavadores_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 2301,
+    "name": "Cordoaria_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176613,
+    "name": "604_Hospital de S.Joao_Aeroporto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 176614,
+    "name": "604_Aeroporto_Hospital de S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179653,
+    "name": "300_Hospital de S.Joao_Bairro do Amial",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179670,
+    "name": "300_Hospital de S.Joao_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 176832,
+    "name": "600_Aliados_S.Mamede",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 176833,
+    "name": "600_S.Mamede_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 4782,
+    "name": "Aliados_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 4784,
+    "name": "UOF_Aliados",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 4786,
+    "name": "UOF_Hospital de S.Joao",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 4787,
+    "name": "UOF_Monte dos Burgos",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 4789,
+    "name": "Hospital de S.Joao_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 177230,
+    "name": "203_Marques_Castelo do Queijo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 177231,
+    "name": "203_Castelo do Queijo_Marques",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 28750,
+    "name": "61_Valongo_Matosinhos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 28747,
+    "name": "Valpi_Valongo",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 28748,
+    "name": "Valongo_Valpi",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 28749,
+    "name": "61_Matosinhos_Valongo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 137464,
+    "name": "Areosa_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 7401,
+    "name": "UON_Hospital de S.Joao",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 401921,
+    "name": "104_Cordoaria_Bom Sucesso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401923,
+    "name": "104_Bom Sucesso_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401925,
+    "name": "104_Infante_Bom Sucesso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401961,
+    "name": "104_Alfandega_Bom Sucesso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 402241,
+    "name": "Madalena_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 401125,
+    "name": "905_Bolhao_Monte da Virgem",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401127,
+    "name": "905_Monte da Virgem_Bolhao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401247,
+    "name": "Ermesinde_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615112,
+    "name": "500_Praça Liberdade_PR.Cidade Salvador",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 402121,
+    "name": "Travagem_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 401281,
+    "name": "11M_Hospital de S.Joao_Coimbroes",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615113,
+    "name": "500_PR.Cidade Salvador_Praça Liberdade",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401603,
+    "name": "8M_Aliados_S.Pedro da Cova",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401605,
+    "name": "8M_S.Pedro da Cova_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401365,
+    "name": "9M_Norteshopping_Gondomar",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401367,
+    "name": "9M_Gondomar_Norteshopping",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401369,
+    "name": "S.Pedro da Cova_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 401371,
+    "name": "Gondomar_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 401441,
+    "name": "7M_Aliados_Valongo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401443,
+    "name": "7M_Valongo_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 401445,
+    "name": "Valongo_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 401681,
+    "name": "22_Carmo_Carmo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 7402,
+    "name": "Hospital de S.Joao_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612206,
+    "name": "202_Passeio Alegre_Fonte da Moura",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612386,
+    "name": "79_Aliados_Areosa",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612387,
+    "name": "79_Areosa_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612004,
+    "name": "208_Aliados_Aldoar",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612005,
+    "name": "208_Aldoar_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612006,
+    "name": "208_Bairro de Francos_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612064,
+    "name": "904_Bolhao_Coimbroes",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615270,
+    "name": "901_Coimbrões_Valadares",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 10935,
+    "name": "UON_Marques",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 10936,
+    "name": "Marques_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 32715,
+    "name": "94_Bolhao Mercado_Campo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 32716,
+    "name": "94_Campo_Bolhao Mercado",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 32717,
+    "name": "94_Bolhao Mercado_Valongo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 32718,
+    "name": "94_Valongo_Bolhao Mercado",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 32725,
+    "name": "Valpi_Campo",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 32726,
+    "name": "Campo_Valpi",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 141806,
+    "name": "Bolhao_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612065,
+    "name": "904_Coimbroes Sul_Bolhao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612406,
+    "name": "68_Queimodromo_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612546,
+    "name": "UOF_Infante",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613907,
+    "name": "507_Leca_Boavista",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 33499,
+    "name": "Matosinhos_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 33501,
+    "name": "UON_Matosinhos",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 33890,
+    "name": "Viso_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 34711,
+    "name": "UOF_Viso",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 34817,
+    "name": "Bom Sucesso_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 34818,
+    "name": "UON_Bom Sucesso",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 34819,
+    "name": "UON_Aliados",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613926,
+    "name": "207_Campanha_Batalha",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 178391,
+    "name": "200_Castelo do Queijo_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613927,
+    "name": "207_Batalha_Campanha",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 177953,
+    "name": "UOF_S.Mamede",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 173508,
+    "name": "1_Massarelos_UOM",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 173510,
+    "name": "400_S.Lazaro_Azevedo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 173511,
+    "name": "400_Azevedo_S.Lazaro",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613928,
+    "name": "207_Praca da Galiza_Mercado da Foz",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 178390,
+    "name": "200_Cordoaria_Castelo do Queijo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 175111,
+    "name": "UON_Alfandega",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 175115,
+    "name": "106_Valadares_Francelos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 175116,
+    "name": "106_Francelos_Valadares",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 175117,
+    "name": "UON_Valadares Estacao",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 175118,
+    "name": "Valadares Estacao_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 175120,
+    "name": "UON_Infante",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179770,
+    "name": "907_Bom Sucesso_Vila D'Este",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 178433,
+    "name": "701_Ermesinde_Bolhao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 178490,
+    "name": "401_Bolhao Mercado_S.Roque",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 175350,
+    "name": "1_Infante_Passeio Alegre",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 175351,
+    "name": "1_Passeio Alegre_Infante",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 178491,
+    "name": "401_S.Roque_Bolhao Mercado",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179771,
+    "name": "907_Vila D'Este_Bom Sucesso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179772,
+    "name": "UOF_Vila d'Este",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179773,
+    "name": "Vila d'Este_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 173528,
+    "name": "69_Casa da Musica_Serralves",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 173529,
+    "name": "69_Serralves_Casa da Musica",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 173548,
+    "name": "Bolhao_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 175430,
+    "name": "12M_Aliados_Santo Ovidio",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 175431,
+    "name": "12M_Santo Ovidio_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 174050,
+    "name": "502_Casa da Musica_Matosinhos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 174051,
+    "name": "502_Bolhao_Matosinhos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 174170,
+    "name": "200_Bolhao_Castelo do Queijo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 174171,
+    "name": "200_Castelo do Queijo_Bolhao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 174872,
+    "name": "UOF_Candal",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 174873,
+    "name": "Candal_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176133,
+    "name": "Carvalhosa_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176492,
+    "name": "UON_Alto da Serra",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179690,
+    "name": "Bairro do Amial_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 175511,
+    "name": "206_Bairro Santo Eugenio_Campanha",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 176493,
+    "name": "Alto da Serra_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 177850,
+    "name": "Venda Nova_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176810,
+    "name": "UOF_Venda Nova",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176910,
+    "name": "801_Bolhao_S.Pedro da Cova",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 176911,
+    "name": "801_S.Pedro da Cova_Bolhao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 178830,
+    "name": "506_Hospital de S.Joao_Matosinhos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 178350,
+    "name": "603_MaiaZoo_Marques",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 175830,
+    "name": "Aeroporto_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179154,
+    "name": "UON_Areias",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 176692,
+    "name": "701_Bolhao_Ermesinde",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 179155,
+    "name": "Areias_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 174213,
+    "name": "UON_Mercado da Foz",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 174212,
+    "name": "Mercado da Foz_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 174250,
+    "name": "305_Cordoaria_Hospital de S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 174251,
+    "name": "305_Hospital de S.Joao_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 174630,
+    "name": "Foz_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 174631,
+    "name": "UOF_Foz",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 179410,
+    "name": "Areosa_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613506,
+    "name": "107_Corujeira_Areias",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613507,
+    "name": "107_Areias_Corujeira",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613508,
+    "name": "UON_Corujeira",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613509,
+    "name": "Corujeira_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 175570,
+    "name": "707_Hospital de S.Joao_Ermesinde",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 175571,
+    "name": "707_Ermesinde_Hospital de S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 177414,
+    "name": "600_Amial_Maia",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 177415,
+    "name": "600_Maia_Amial",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 177416,
+    "name": "600_Amial_Maia Barca",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 177417,
+    "name": "600_Maia Barca_Amial",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612727,
+    "name": "Praca da Galiza_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612786,
+    "name": "809_Infante_Infante",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613306,
+    "name": "100-Batalha_Aeroporto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612326,
+    "name": "505_Hospital de S.João_Matosinhos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612327,
+    "name": "505_Matosinhos_Hospital de S.João",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613307,
+    "name": "100_Aeroporto_Batalha",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613308,
+    "name": "UOF_Batalha",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610981,
+    "name": "209_Prelada_Prelada",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610901,
+    "name": "UOF_Pasteleira",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610903,
+    "name": "Pasteleira_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610905,
+    "name": "UOF_Prelada",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610907,
+    "name": "Prelada_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613309,
+    "name": "Batalha_UOF",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610943,
+    "name": "209_Prelada_Pasteleira",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610261,
+    "name": "UOF_Ermesinde",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1610941,
+    "name": "209_Pasteleira_Prelada",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613606,
+    "name": "P.Alegre_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613006,
+    "name": "42_Casa da Musica_Exponor",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613007,
+    "name": "42_Exponor_Casa da Musica",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613008,
+    "name": "UOF_Exponor",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1613009,
+    "name": "Exponor_UOF",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612148,
+    "name": "202_Ramalde_Passeio Alegre",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611864,
+    "name": "UOF_Cabine",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1612166,
+    "name": "UOF_Ramalde",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1611061,
+    "name": "700_Bolhao Mercado_Campo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615312,
+    "name": "301_C24Agosto_Carvalhido",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615392,
+    "name": "49_Trindade_Cordoaria",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615352,
+    "name": "151_Boavista_Rot.Anemona",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615393,
+    "name": "49_Cordoaria_Trindade",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615354,
+    "name": "150_Pr.Imperio_Boavista",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615510,
+    "name": "403_Casa da Musica_Infante",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615356,
+    "name": "151_Rot.Anemona_Boavista",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615511,
+    "name": "403_Infante_Casa da Musica",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614766,
+    "name": "UON_PR.D.Joao I",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615006,
+    "name": "203_Marques_Pr Cidade Salvador",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614786,
+    "name": "502/_Bolhao_Matosinhos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614787,
+    "name": "502/_Matosinhos_Bolhao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614788,
+    "name": "502/_Bolhao_Casa da Musica",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614789,
+    "name": "502/_Boavista_Bolhao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614790,
+    "name": "503_Bom Sucesso_Gatoes",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614791,
+    "name": "503_Gatoes_Bom Sucesso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614796,
+    "name": "UOF_Areias",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614797,
+    "name": "Areias_UOF",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614798,
+    "name": "Freixo_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614846,
+    "name": "600_Aliados_Amial",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614847,
+    "name": "600_Amial_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614848,
+    "name": "UON_Vale Formoso",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614849,
+    "name": "Vale Formoso_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615007,
+    "name": "203_Pr Cidade Salvador_Marques",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615008,
+    "name": "UON_Pr Cidade Salvador",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615009,
+    "name": "Pr Cidade Salvador_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615530,
+    "name": "UON_Araujo",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 1
+  },
+  {
+    "id": 1615531,
+    "name": "Araujo_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 1
+  },
+  {
+    "id": 1614666,
+    "name": "38_Parque Oriental_Parque Oriental",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614667,
+    "name": "38_S.Roque_Estadio Dragão",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615370,
+    "name": "300_Sta.Luzia_C.24 Agosto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614669,
+    "name": "38_S.Roque_Parque Oriental",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614670,
+    "name": "Parque Oriental_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614671,
+    "name": "38_Parque Oriental_Estadio do Dragão",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614756,
+    "name": "10M_Aliados_Vila d'Este",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614801,
+    "name": "205_H.S.Joao_Campanha",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614802,
+    "name": "205/-Lidador_Campanha",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614803,
+    "name": "205_Monte dos Burgos_Castelo do Queijo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614804,
+    "name": "205_Castelo do Queijo_Monte dos Burgos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614811,
+    "name": "205/_S.Roque_Castelo do Queijo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614806,
+    "name": "205/_Castelo do Queijo_S.Roque",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614812,
+    "name": "205/_Campanha_Castelo do Queijo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614808,
+    "name": "205/_Castelo do Queijo_Campanha",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614947,
+    "name": "300_H.S.João_Santa Luzia",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614810,
+    "name": "205/_Lidador_S.Roque",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614948,
+    "name": "301_Cordoaria_H.S.João",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614949,
+    "name": "301/_Santa Luzia_H.S.João",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614950,
+    "name": "301/_H.S.João_H.S.João",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615371,
+    "name": "C24A_STLZ",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614759,
+    "name": "11M_Coimbrões_H.S.João",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614758,
+    "name": "10M_Vila d'Este_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614866,
+    "name": "UON_Aldoar",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614867,
+    "name": "Aldoar_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614868,
+    "name": "UON_Ponte Moreira",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614869,
+    "name": "Ponte Moreira_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614870,
+    "name": "UON_Monte Burgos",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614871,
+    "name": "Monte Burgos_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614872,
+    "name": "Guardeiras_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614886,
+    "name": "704/_Bom Sucesso_Codiceira",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614887,
+    "name": "704/_Codiceira_Bom Sucesso",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614888,
+    "name": "704/_H.S.Joao_Codiceira",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614889,
+    "name": "704/_Codiceira_H.S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614890,
+    "name": "304_Aliados_Santa Luzia",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614891,
+    "name": "304_Santa Luzia_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614906,
+    "name": "300_Praça D.João I_H.S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614907,
+    "name": "300_H.S.Joao_H.S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614909,
+    "name": "300_Santa Luzia_H.S.Joao",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614689,
+    "name": "901_Trindade_Cabine",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614690,
+    "name": "901_Cabine_Trindade",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614726,
+    "name": "UON_Maia-Forum",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614754,
+    "name": "UON_Madalena",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614755,
+    "name": "Madalena_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614926,
+    "name": "UON_Rotunda da AEP",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614927,
+    "name": "Rotunda da AEP_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615010,
+    "name": "UON_Maia Barca",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615011,
+    "name": "Maia Barca_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615090,
+    "name": "UOF_Coimbroes",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615091,
+    "name": "Coimbroes_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615190,
+    "name": "809_Alfandega_S.Roque",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615191,
+    "name": "809_S.Roque_Alfandega",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615210,
+    "name": "18_Carmo_P.Alegre",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615211,
+    "name": "18_P.Alegre_Carmo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615330,
+    "name": "300_C24Agosto_Carvalhido",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615332,
+    "name": "300_HSJoao_C24Agosto",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615334,
+    "name": "301_HSJoao_Carvalhido",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614706,
+    "name": "809_Marques_Monte Cativo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614707,
+    "name": "809_Monte Cativo_Marques",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614813,
+    "name": "UON_Casa da Musica",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614814,
+    "name": "Casa da Musica_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614815,
+    "name": "UON_Foz",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614816,
+    "name": "Foz _UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614910,
+    "name": "UON_Boavista",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614911,
+    "name": "Boavista_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615170,
+    "name": "809_Palacio_Alfandega",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615171,
+    "name": "809_Alfandega_Palacio",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615172,
+    "name": "UOF_Palacio",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615173,
+    "name": "Palacio_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615174,
+    "name": "UOF_Alfandega",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615175,
+    "name": "Alfandega_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615410,
+    "name": "205_C.Queijo_H.SJoão",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615552,
+    "name": "UON_Areosa",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 1
+  },
+  {
+    "id": 1614850,
+    "name": "205/_S.Roque_Lidador",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614851,
+    "name": "205_Monte dos Burgos_Lidador",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614852,
+    "name": "205_Lidador_Monte dos Burgos",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614853,
+    "name": "UON_Monte dos Burgos",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614854,
+    "name": "Monte dos Burgos_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614855,
+    "name": "UON_Lidador",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614856,
+    "name": "Lidador_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614857,
+    "name": "UOF_Valadares Estação",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614858,
+    "name": "Valadares Estação_UOF",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614859,
+    "name": "403_Casa da Musica_Campanha",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614860,
+    "name": "403_Campanha_Casa da Musica",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615030,
+    "name": "304/_Santa Luzia_Aliados",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615250,
+    "name": "920_Ponte Luis I_S.Ovidio",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614912,
+    "name": "UON_S.Bento",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614913,
+    "name": "S.Bento_UON",
+    "empty": true,
+    "type_value": 1,
+    "old_type_value": 0
+  },
+  {
+    "id": 1614951,
+    "name": "702_Travagem_Areosa",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615251,
+    "name": "920_S.Ovido_Ponte Luis I",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615252,
+    "name": "UON_Ponte Luis I",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 1
+  },
+  {
+    "id": 1615253,
+    "name": "Ponte Luis I_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 1
+  },
+  {
+    "id": 1615390,
+    "name": "UON_Queimodromo",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 1
+  },
+  {
+    "id": 1615391,
+    "name": "Queimodromo_UON",
+    "empty": false,
+    "type_value": 1,
+    "old_type_value": 1
+  },
+  {
+    "id": 1615490,
+    "name": "48_Palacio_C.Queijo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615431,
+    "name": "502_Bolhao_Castelo do Queijo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615491,
+    "name": "48_C.Queijo_Palacio",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615550,
+    "name": "69_Areosa_Queimodromo",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  },
+  {
+    "id": 1615551,
+    "name": "69_Queimodromo_Areosa",
+    "empty": false,
+    "type_value": 0,
+    "old_type_value": 0
+  }
+]
