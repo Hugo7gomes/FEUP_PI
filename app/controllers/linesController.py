@@ -5,37 +5,52 @@ from data_analysis.numberOfPaths import getNumberOfPaths
 from data_analysis.pathLength import getPathLength
 from data_analysis.lineLength import getLineLength
 from data_analysis.tripsHour import getTripsHour
+from data_analysis.workBlockHours import getWorkBlockHour
 
 
 class PathLength(Resource):
     def get(self, id):
-        return getPathLength(id)
+        response = getPathLength(id)
+        if(response == -1):
+            return make_response(jsonify({'error': 'Path does not exist'}), 404)
+        return make_response(response, 200)
 
 class Lines(Resource):
     def get(self):
-        return getNumberOfLines()
+        response = getNumberOfLines()
+        if(response == -1):
+            return make_response(jsonify({'error': 'Line does not exist'}), 404)
+        return make_response(response, 200)
     
 
 class Paths(Resource):
     def get(self):
-        return getNumberOfPaths()
+        response = getNumberOfPaths()
+        if(response == -1):
+            return make_response(jsonify({'error': 'Path does not exist'}), 404)
+        return make_response(response, 200)
     
 class LineLength(Resource):
     def get(self, id):
         response = getLineLength(id)
         if(response == -1):
-            return make_response(jsonify({'error': 'Line does not exist'}), 404)
-        
-        return response, 200
+            return make_response(jsonify({'error': 'Line does not exist'}), 404) 
+        return make_response(response, 200)
     
 class Schedule(Resource):
     def get(self, id):
         response = getTripsHour(id)
         if(response == -1):
             return make_response(jsonify({'error': 'Line does not exist'}), 404)
-        
-        return response, 200
+        return make_response(response, 200)
        
     
+
+class WorkBlock(Resource):
+    def get(self, id):
+        response = getWorkBlockHour(id)
+        if(response == -1):
+            return make_response(jsonify({'error': 'Line does not exist'}), 404)
+        return make_response(response, 200)
 
 

@@ -8,9 +8,10 @@ def getTripsHour(id):
     tripsHour = dict()
     if(trips.status_code != 200):
         return -1
-    for tripId in trips.json()['trips']:
+        
+    for tripId in trips.json()["tripIds"]:
         trip = requests.get(backEndIP + '/trips/' + str(tripId)) 
-        hour = trip['start_time'] // 3600
+        hour = trip.json()["tripInfo"]["start_time"] // 3600
         if(hour in tripsHour):
             tripsHour[hour] += 1
         else:
@@ -27,7 +28,7 @@ def getTripsHour(id):
 
         result.append(trip)
 
-    return json.dumps({id : result}, indent=4, separators=(',', ': '))
+    return {'schedule': id, 'data': result}
             
 
         
