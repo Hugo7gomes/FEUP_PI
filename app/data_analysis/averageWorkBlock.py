@@ -1,8 +1,7 @@
 import requests
 from config import *
 
-
-def getWorkBlockHour(id):
+def getAverageWorkBlock(id):
     workBlocks = requests.get(backEndIP + '/schedules/' + str(id) + '/workBlocks')
     workBlocksHour = dict()
     if(workBlocks.status_code != 200):

@@ -1,5 +1,5 @@
 import json
-from .pathLength import getPathLength, getEmptyPath
+from .pathLength import getPathLength
 import requests
 from config import *
 
@@ -11,5 +11,5 @@ def getLineLength(line_number):
     lines_paths = requests.get(backEndIP + '/lines/' + str(id_line) + '/paths')
     length = 0 
     for id_path in lines_paths.json()['pathIds']:
-        length += getEmptyPath(id_path)
+        length += getPathLength(id_path)["emptyLength"]
     return length

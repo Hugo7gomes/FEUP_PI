@@ -6,6 +6,7 @@ from data_analysis.pathLength import getPathLength
 from data_analysis.lineLength import getLineLength
 from data_analysis.tripsHour import getTripsHour
 from data_analysis.workBlockHours import getWorkBlockHour
+from data_analysis.averageWorkBlock import getAverageWorkBlock
 
 
 class PathLength(Resource):
@@ -53,4 +54,10 @@ class WorkBlock(Resource):
             return make_response(jsonify({'error': 'Line does not exist'}), 404)
         return make_response(response, 200)
 
+class AverageWorkBlock(Resource):
+    def get(self, id):
+        response = getAverageWorkBlock(id)
+        if(response == -1):
+            return make_response(jsonify({'error': 'Line does not exist'}), 404)
+        return make_response(response, 200)
 
